@@ -1,0 +1,32 @@
+/* add your CSS here */
+
+.name {
+  margin-left: 10px;
+}
+
+.cheetah {
+  max-width: 300px;
+  max-height: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.border1 {
+  box-shadow: 5px 5px 3px #ccc;
+  border-style: solid;
+  max-width: 320px;
+  border-width: thin;
+}
+
+.border2 {
+  border-style: solid;
+  border-width: thin;
+  max-width: 300px;
+  margin: 10px;
+}
+
+.text {
+  padding: 5px;
+
+}
